@@ -1,0 +1,171 @@
+{
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.fontLigatures": true,
+	"prettier.jsxSingleQuote": true,
+	"prettier.printWidth": 150,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[vue]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+    "[javascriptreact]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[html]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+	"[scss]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+	"[json]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+	"editor.mouseWheelZoom": true,
+	"vetur.ignoreProjectWarning": true,
+	"highlight-matching-tag.enabled": true,
+	"editor.minimap.scale": 1,
+	"editor.minimap.showSlider": "always",
+	"editor.minimap.maxColumn": 40,
+	"editor.fontFamily": "Fira Code,Operator Mono,JetBrains Mono Medium,Consolas, 'Courier New', monospace",
+	"workbench.editor.decorations.badges": true,
+	"workbench.editor.decorations.colors": true,
+	"editor.smoothScrolling": true,
+	"workbench.list.smoothScrolling": true,
+	"editor.cursorSmoothCaretAnimation": true,
+	"workbench.startupEditor": "newUntitledFile",
+	"git.enableSmartCommit": true,
+	"editor.lineHeight": 25,
+	"editor.letterSpacing": 0.5,
+	"files.trimTrailingWhitespace": true,
+	"prettier.eslintIntegration": true,
+	"editor.cursorBlinking": "solid",
+	"gitlens.advanced.messages": {
+		"suppressCreatePullRequestPrompt": true
+	},
+	"editor.rulers": [],
+	"workbench.productIconTheme": "fluent-icons",
+	"tabnine.experimentalAutoImports": true,
+	"better-comments.tags": [
+		{
+			"tag": "!",
+			"color": "#FF2D00",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "?",
+			"color": "#3498DB",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "//",
+			"color": "#98C379",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "todo",
+			"color": "#FF8C00",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "*",
+			"color": "#98C379",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		}
+	],
+	"bracketPairColorizer.consecutivePairColors": [
+		"()",
+		"[]",
+		"{}",
+		[
+			"Gold",
+			"Orchid",
+			"LightSkyBlue"
+		],
+		"Red"
+	],
+	"workbench.colorTheme": "Tokyo Night",
+	"editor.wordWrap": "on",
+	"diffEditor.wordWrap": "off",
+	"editor.fontSize": 15,
+	"workbench.editorAssociations": {
+		"*.ttf": "default"
+	},
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"editor.inlineSuggest.enabled": true,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"dart.openDevTools": "flutter",
+	"terminal.integrated.profiles.linux": {
+		"bash": {
+			"path": "bash"
+		},
+		"zsh": {
+			"path": "zsh"
+		},
+		"fish": {
+			"path": "fish"
+		},
+		"tmux": {
+			"path": "tmux",
+			"icon": "terminal-tmux"
+		},
+		"pwsh": {
+			"path": "pwsh",
+			"icon": "terminal-powershell"
+		},
+		"sh": {
+			"path": "/bin/sh"
+		},
+		"bash (2)": {
+			"path": "/usr/bin/bash"
+		}
+	},
+	"terminal.integrated.defaultProfile.linux": "bash",
+	"yaml.schemas": {
+		"file:///Users/usermac/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+	},
+	"redhat.telemetry.enabled": true,
+	"atlascode.jira.lastCreateSiteAndProject": {
+		"siteId": "",
+		"projectKey": ""
+	},
+	"editor.cursorStyle": "line-thin",
+	"bracketPairColorizer.depreciation-notice": false,
+	"editor.formatOnSave": true,
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+}
